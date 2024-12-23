@@ -67,13 +67,8 @@ Refer to the `results/` directory for detailed metrics and visualizations.
 ## Team
 
 This project was conducted by AI Engineering students at Carnegie Mellon University:
+- **Sai Yarlagadda**
 - **Akshay Badagabettu**
 - **Nikolaj Hindsbo**
 - **Aayush Shah**
-- **Sai Yarlagadda**
-
-Contact: 
-`{nikolajhindsbo} at gmail`
-`{abadagab, aayushsh, saisravy}@andrew.cmu.edu`
-
 ---
